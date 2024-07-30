@@ -1,5 +1,5 @@
-# 3d geological model creation program(unfinished)
-## Program for creation 3d geological model by borehole data written with use a of Python, PyQt, pyvista, pandas, matplotlib, sklearn, scipy
+# 3d geological model creation program
+## Program for creation 3d geological model by borehole data written with use a of Python, PyTorch, PyQt, pyvista, pandas, matplotlib, sklearn, scipy
 ![](https://github.com/renat3424/3d-geological-model-creation-application/blob/master/3dmodelcreation.gif)
 
 
